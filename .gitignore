@@ -13,9 +13,6 @@ target/
 *.iml
 *.ipr
 *.idea/*
-*encodings.xml
-*misc.xml
-*vcs.xml
 
 ### Eclipse ###
 .apt_generated
