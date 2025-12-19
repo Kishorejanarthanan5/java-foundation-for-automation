@@ -35,7 +35,7 @@ build/
 encodings.xml
 misc.xml
 vcs.xml
-.gitignore
+
 ### VS Code ###
 .vscode/
 
