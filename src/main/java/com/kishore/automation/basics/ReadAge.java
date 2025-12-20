@@ -10,13 +10,7 @@ public class ReadAge {
         System.out.println("Enter your Age: ");
         int age = scan.nextInt();
 
-        if (age >= 18) {
-            System.out.println("Your are eligible to vote");
-        }
-            else
-            {
-                System.out.println("Your are not eligible to vote");
-            }
+        System.out.println("Your age:" + age);
 
         scan.close();
     }
