@@ -2,7 +2,7 @@ package com.kishore.automation.basics;
 
 public class ReverseNumber {
     public static void main(String[] args) {
-    int number = 99998;
+    int number = 988654;
     int reverse = 0;
     while(number !=0)
     {
