@@ -1,4 +1,4 @@
-package com.kishore.automation.basics;
+package com.kishore.automation.strings;
 
 public class StringConcatenation {
     public static void main(String[] args) {
