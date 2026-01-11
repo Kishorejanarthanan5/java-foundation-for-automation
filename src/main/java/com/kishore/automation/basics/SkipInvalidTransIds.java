@@ -20,7 +20,7 @@ public class SkipInvalidTransIds {
             }
 
             System.out.println("Processing valid ID: " + id);
-            sc.close();
-        }
+            break;
+        } sc.close();
     }
 }
