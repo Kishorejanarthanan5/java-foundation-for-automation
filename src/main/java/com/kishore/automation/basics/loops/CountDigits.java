@@ -1,4 +1,4 @@
-package com.kishore.automation.basics;
+package com.kishore.automation.basics.loops;
 
 public class CountDigits {
     public static void main(String[] args) {

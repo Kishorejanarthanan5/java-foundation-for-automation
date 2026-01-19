@@ -1,4 +1,4 @@
-package com.kishore.automation.basics;
+package com.kishore.automation.basics.loops;
 
 import java.util.Scanner;
 
