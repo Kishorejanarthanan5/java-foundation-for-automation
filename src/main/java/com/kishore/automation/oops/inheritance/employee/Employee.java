@@ -1,4 +1,4 @@
-package com.kishore.automation.oops.inheritance;
+package com.kishore.automation.oops.inheritance.employee;
 
 public class Employee {
 

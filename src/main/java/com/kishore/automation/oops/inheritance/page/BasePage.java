@@ -1,4 +1,4 @@
-package com.kishore.automation.oops.inheritance;
+package com.kishore.automation.oops.inheritance.page;
 
 public class BasePage {
     protected void click (String element) {

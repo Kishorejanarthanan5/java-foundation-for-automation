@@ -1,4 +1,4 @@
-package com.kishore.automation.oops.inheritance;
+package com.kishore.automation.oops.inheritance.page;
 
 public class PageRunner {
     public static void main(String[] args) {
